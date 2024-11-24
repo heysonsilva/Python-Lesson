@@ -1,0 +1,10 @@
+Texto a validar	Bits em zero	Nonce	Tempo (s)
+Esse é fácil	8	96	0.0010
+Esse é fácil	10	1233	0.0010
+Esse é fácil	15	21712	0.0309
+Texto maior muda o tempo?	8	538	0.0000
+Texto maior muda o tempo?	10	1632	0.0030
+Texto maior muda o tempo?	15	97592	0.1346
+É possível calcular esse?	18	58126	0.0758
+É possível calcular esse?	19	58126	0.0758
+É possível calcular esse?	20	580439	0.7526
